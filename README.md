@@ -1,4 +1,6 @@
 给前端小牛参考的git配置搭建博客上传文件等等功能的教程，大牛请绕道，小牛们共勉！
+
+
 一、安装 hexo
 首先打开 git-bash，进入到一个合适的存放 hexo 博客的目录，直接运行
 http://www.xp510.com/xiazai/Application/other/28541.html
