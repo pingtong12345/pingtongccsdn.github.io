@@ -76,7 +76,7 @@ hexo deploy
 title: wally
 subtitle: 杨阳洋的博客
 description: 我的地盘听我的
-author: 杨芳
+author: 平通
 language: zh-Hans
 avatar: /images/avatar.jpg
 timezone:
@@ -153,7 +153,7 @@ NEXT主题完整配置文件示例:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "杨芳, 思软"
+keywords: "平通，前端"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
